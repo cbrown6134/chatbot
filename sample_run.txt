@@ -1,0 +1,56 @@
+Python 3.6.2 (v3.6.2:5fd33b5, Jul  8 2017, 04:14:34) [MSC v.1900 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+========== RESTART: C:\Users\cbrown6134\APCSP-P\chatbot\chatbot.py ==========
+  _    _      _ _          _____ _             _______ _                                 ______    _ _                 
+ | |  | |    | | |        |_   _( )           |__   __| |                               |  ____|  | (_)                
+ | |__| | ___| | | ___      | | |/ _ __ ___      | |  | |__   ___  _ __ ___   __ _ ___  | |__   __| |_ ___  ___  _ __  
+ |  __  |/ _ \ | |/ _ \     | |   | '_ ` _ \     | |  | '_ \ / _ \| '_ ` _ \ / _` / __| |  __| / _` | / __|/ _ \| '_ \ 
+ | |  | |  __/ | | (_) |   _| |_  | | | | | |    | |  | | | | (_) | | | | | | (_| \__ \ | |___| (_| | \__ \ (_) | | | |
+ |_|  |_|\___|_|_|\___(_) |_____| |_| |_| |_|    |_|  |_| |_|\___/|_| |_| |_|\__,_|___/ |______\__,_|_|___/\___/|_| |_|
+Say something to me!
+>> Are you the real Thomas edison?
+Do you really want me to answer that...
+>> Yes, actually
+I don't agree with you
+>> There is really nothing to agree on
+Hola
+>> What is you favorite season?
+Just remember to always try your best.
+>> I will remember that
+Uh, huh.
+>> Its sunny outside today
+The weather has been wonky recently.
+>> I woudn't say the weather has been wonky.
+You may be onto something
+>> Ok then.
+You may be onto something
+>> I plan on going to the mountains this weekend.
+I love nature. The beach, the mountains, the woods, et cetera.
+>> Why do you love the beach?
+Huh?
+>> Why do you love the beach?
+The simplest answer is most often correct.
+>> ok
+It's probably not your fault
+>> What's not my fault?
+Ask a less stupid question please.
+>> Your being kind of rude.
+Uh, huh.
+>> Do you even care about my feelings?
+Ask a less stupid question please.
+>> Aparently not
+Oh, that's interesting
+>> So now you care. Whatever. Goodbye.
+Oh, that's interesting
+>> Goodbye
+Goodbye. It was nice talking to you.
+Would you like to chat again? (y/n)n
+  _______    _ _      _                              _       _            
+ |__   __|  | | |    | |                            | |     | |           
+    | | __ _| | | __ | |_ ___    _   _  ___  _   _  | | __ _| |_ ___ _ __ 
+    | |/ _` | | |/ / | __/ _ \  | | | |/ _ \| | | | | |/ _` | __/ _ \ '__|
+    | | (_| | |   <  | || (_) | | |_| | (_) | |_| | | | (_| | ||  __/ |_  
+    |_|\__,_|_|_|\_\  \__\___/   \__, |\___/ \__,_| |_|\__,_|\__\___|_(_) 
+                                  __/ |                                   
+                                 |___/                                    
